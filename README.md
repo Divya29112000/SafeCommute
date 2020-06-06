@@ -6,10 +6,6 @@ The github repository for our Callforcode 2020 submissions.
 3. The architecture
 4. Long description
 5. Project Roadmap
-6. Getting started
-7. Running the Tests
-8. Built with
-9. Acknowlegdments
 
 # Short Description
 Going back to work, schools, colleges, or anywhere of that sort is to return anytime soon and we need to be prepared, we need to focus on transportation to these locations with safety and preventive measures and not be vulnerable to become potential carriers to the respective locations.
